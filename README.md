@@ -3,4 +3,4 @@ pip install keras
 pip install numpy
 pip install pandas
 Reinforcement Learning
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://www.youtube.com/watch?v=-MLmYwFWtr8&t=3s)
+[![Watch the video](https://www.kdnuggets.com/images/reinforcement-learning-fig1-700.jpg)](https://www.youtube.com/watch?v=-MLmYwFWtr8&t=3s)
